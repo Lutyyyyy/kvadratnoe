@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+/html/
+
+/latex/
+*.save
+*.log
